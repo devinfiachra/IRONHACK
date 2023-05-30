@@ -1,0 +1,16 @@
+* {
+  color: white;
+  background-color: black;
+}
+
+p {
+  color: #00ff00;
+}
+
+#title {
+  color: rgb(0, 0, 255);
+}
+
+.paragraph {
+  color: rgba(256, 0, 0, 0.8);
+}
